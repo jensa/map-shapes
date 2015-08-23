@@ -1,0 +1,10 @@
+{
+  "name": "map-shapes",
+  "description": "rad stuff",
+  "author": "Jens Arvidsson <jensarv@gmail.com>",
+  "dependencies": {
+    "express": "4.x",
+    "googlemaps": "1.0.x"
+  },
+  "engine": "node >= 0.12.7"
+}
